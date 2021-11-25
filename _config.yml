@@ -2,8 +2,8 @@ description: This is a template researchers can walk away with and create their 
 datelastupdated: 25 November 2021
 fullnameofperson: Alex Williams
 selfIdentification: Coordinator, Researcher Services, Griffith University Library
-colour1: "#274c77"  # sidebar background 
-colour2: "#a3cef1"  # colour of name and desc
-colour3: "#a3cef1"  # colour of Menu links
-colour4: "#d4dfc7" # trying to be background colour - still experimenting 
-colour5: "#e7ecef" # menu link colour when hover
+colour1: "#134611"  # sidebar background 
+colour2: "#3e8914"  # colour of name and desc
+colour3: "#3da35d"  # colour of Menu links
+colour4: "#96e072" # trying to be background colour - still experimenting 
+colour5: "#e8fccf" # menu link colour when hover
